@@ -1,1 +1,5 @@
-[object File]
+
+          .clear::after {display: block; content: ""; clear: both;}
+          .fl {float: left !important;}
+          .fr {float: right !important;}
+        
